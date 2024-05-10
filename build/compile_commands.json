@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Ahei/Desktop/Yu/X-Lab/code/build",
+  "command": "C:\\Coding\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\main.c.obj -c \"C:\\Users\\Ahei\\Desktop\\Yu\\X-Lab\\code\\Hello CMake\\main.c\"",
+  "file": "C:/Users/Ahei/Desktop/Yu/X-Lab/code/Hello CMake/main.c",
+  "output": "CMakeFiles/main.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/Ahei/Desktop/Yu/X-Lab/code/build",
+  "command": "C:\\Coding\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\print1.c.obj -c \"C:\\Users\\Ahei\\Desktop\\Yu\\X-Lab\\code\\Hello CMake\\print1.c\"",
+  "file": "C:/Users/Ahei/Desktop/Yu/X-Lab/code/Hello CMake/print1.c",
+  "output": "CMakeFiles/main.dir/print1.c.obj"
+},
+{
+  "directory": "C:/Users/Ahei/Desktop/Yu/X-Lab/code/build",
+  "command": "C:\\Coding\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\print.c.obj -c \"C:\\Users\\Ahei\\Desktop\\Yu\\X-Lab\\code\\Hello CMake\\print.c\"",
+  "file": "C:/Users/Ahei/Desktop/Yu/X-Lab/code/Hello CMake/print.c",
+  "output": "CMakeFiles/main.dir/print.c.obj"
+}
+]
